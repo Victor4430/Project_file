@@ -1,0 +1,405 @@
+Rank,University,Overall Score
+1,Massachusetts Institute of Technology (MIT) , 100 
+2,University of Oxford, 99.5 
+=3,Stanford University, 98.7 
+=3,University of Cambridge, 98.7 
+5,Harvard University, 98 
+6,California Institute of Technology (Caltech), 97.4 
+7,Imperial College London, 97.3 
+=8,ETH Zurich - Swiss Federal Institute of Technology, 95.4 
+=8,UCL, 95.4 
+10,University of Chicago, 94.5 
+11,National University of Singapore (NUS), 93.9 
+12,"Nanyang Technological University, Singapore (NTU)", 90.8 
+13,University of Pennsylvania, 90.7 
+=14,EPFL, 90.2 
+=14,Yale University, 90.2 
+16,The University of Edinburgh, 89.9 
+17,Tsinghua University, 89 
+18,Peking University, 88.8 
+19,Columbia University, 88.7 
+20,Princeton University, 88.6 
+21,Cornell University, 88.3 
+22,The University of Hong Kong, 86.3 
+=23,The University of Tokyo, 86.2 
+=23,University of Michigan-Ann Arbor, 86.2 
+25,Johns Hopkins University, 85.9 
+26,University of Toronto, 85.3 
+=27,McGill University, 84 
+=27,The Australian National University, 84 
+=27,The University of Manchester, 84 
+30,Northwestern University, 82.8 
+31,Fudan University, 82.6 
+32,"University of California, Berkeley (UCB)", 82.5 
+33,Kyoto University, 82.3 
+34,The Hong Kong University of Science and Technology, 82.2 
+35,King's College London, 82 
+36,Seoul National University, 81.7 
+37,The University of Melbourne, 81.4 
+38,The University of Sydney, 80.4 
+39,The Chinese University of Hong Kong (CUHK), 80.3 
+40,"University of California, Los Angeles (UCLA)", 79.7 
+41,KAIST - Korea Advanced Institute of Science & Technology, 79.1 
+42,New York University (NYU), 78.9 
+43,The University of New South Wales (UNSW Sydney), 77.7 
+44,Université PSL, 77.6 
+45,Zhejiang University, 77.4 
+46,University of British Columbia, 77.1 
+47,The University of Queensland, 76.6 
+48,"University of California, San Diego (UCSD)", 76.1 
+=49,Institut Polytechnique de Paris, 75.9 
+49,The London School of Economics and Political Science (LSE), 75.8 
+=50,Shanghai Jiao Tong University, 75.6 
+=50,Technical University of Munich, 75.6 
+52,Duke University, 75.2 
+=53,Carnegie Mellon University, 74.6 
+=53,City University of Hong Kong, 74.6 
+55,University of Amsterdam, 73.8 
+56,Tokyo Institute of Technology (Tokyo Tech), 73.5 
+57,Delft University of Technology, 73.1 
+58,Monash University, 72.2 
+60,Brown University, 71.3 
+61,The University of Warwick, 71.2 
+62,University of Bristol, 71 
+63,Ruprecht-Karls-Universität Heidelberg, 70.8 
+64,Ludwig-Maximilians-Universität München, 70.1 
+65,Universiti Malaya (UM), 69.8 
+66,The Hong Kong Polytechnic University, 69.1 
+67,University of Texas at Austin, 68.4 
+68,National Taiwan University (NTU), 68.2 
+69,Universidad de Buenos Aires (UBA), 67.9 
+=70,KU Leuven, 67.2 
+=70,University of Zurich, 67.2 
+72,Sorbonne University, 67.1 
+73,University of Glasgow, 66.8 
+74,Korea University, 66.3 
+=75,Osaka University, 66.2 
+=75,University of Wisconsin-Madison, 66.2 
+77,University of Southampton, 65.7 
+78,Lomonosov Moscow State University, 65.6 
+=79,University of Copenhagen, 65.5 
+=79,Yonsei University, 65.5 
+81,Pohang University of Science And Technology (POSTECH), 65.4 
+=82,Durham University, 65.2 
+=82,Tohoku University, 65.2 
+=82,University of Illinois at Urbana-Champaign, 65.2 
+=85,The University of Auckland, 65 
+=85,University of Washington, 65 
+=86,Université Paris-Saclay, 64.9 
+87,Lund University, 63.8 
+88,Georgia Institute of Technology, 63.5 
+89,KTH Royal Institute of Technology , 63.2 
+90,University of Birmingham, 62.9 
+91,University of St Andrews, 62.8 
+92,University of Leeds, 62.6 
+93,The University of Western Australia, 62.5 
+94,Rice University, 62.3 
+95,The University of Sheffield, 61.6 
+96,Pennsylvania State University, 61.5 
+97,Sungkyunkwan University (SKKU), 60.5 
+98,University of Science and Technology of China, 60.1 
+99,Technical University of Denmark, 59.9 
+100,"University of North Carolina, Chapel Hill", 59.6 
+101,"Trinity College Dublin, The University of Dublin", 59.5 
+102,University of Oslo, 59 
+103,University of Nottingham, 58.9 
+104,University of Helsinki, 58.5 
+=105,Universidad Nacional Autónoma de México  (UNAM), 58.3 
+=105,University of Geneva, 58.3 
+107,Washington University in St. Louis, 58 
+108,The University of Adelaide, 57.9 
+=108,"University of California, Davis", 57.9 
+109,King Abdulaziz University (KAU), 57.7 
+110,Utrecht University, 57.5 
+111,Université de Montréal , 57.3 
+=112,Aalto University, 57 
+=112,Boston University, 57 
+=112,Leiden University, 57 
+=112,University of Southern California, 57 
+116,Purdue University, 56.9 
+117,Queen Mary University of London, 56.7 
+118,Nagoya University, 56.2 
+119,University of Bern, 56.1 
+120,The Ohio State University, 56 
+=121,Chalmers University of Technology, 55.9 
+=121,Universidade de São Paulo, 55.9 
+123,Wageningen University & Research, 55.8 
+124,Uppsala University, 55.4 
+125,Eindhoven University of Technology, 55.3 
+126,University of Alberta, 55.2 
+127,Freie Universitaet Berlin, 54.9 
+=128,Humboldt-Universität zu Berlin, 54.8 
+=128,University of Groningen, 54.8 
+130,École Normale Supérieure de Lyon, 54.6 
+131,Nanjing University, 54.2 
+132,Lancaster University, 54 
+133,University of Technology Sydney, 53.9 
+134,Newcastle University, 53.8 
+135,Pontificia Universidad Católica de Chile (UC), 53.6 
+136,"KIT, Karlsruhe Institute of Technology", 53.4 
+137,Kyushu University, 53.3 
+=138,University of Basel, 53 
+140,McMaster University, 52.7 
+141,Ghent University, 52.6 
+142,Politecnico di Milano, 52.5 
+143,Universiti Putra Malaysia (UPM), 52.2 
+144,Universiti Kebangsaan Malaysia (UKM), 52 
+145,Hokkaido University, 51.4 
+146,"University of California, Santa Barbara (UCSB)", 51.2 
+147,Universiti Sains Malaysia (USM), 51 
+148,Stockholm University, 50.6 
+=149,The University of Exeter, 50.5 
+=149,University of Waterloo, 50.5 
+=151,Cardiff University, 50.4 
+=151,University of Vienna, 50.4 
+=151,University of York, 50.4 
+154,University of Rochester, 50.3 
+155,Aarhus University, 50.2 
+156,Hanyang University, 49.8 
+157,Michigan State University, 49.7 
+158,"University of Maryland, College Park", 49.5 
+159,Technische Universität Berlin (TU Berlin), 49.3 
+160,Emory University, 48.6 
+=161,Case Western Reserve University, 48.2 
+=161,Tecnológico de Monterrey, 48.2 
+=163,King Fahd University of Petroleum & Minerals, 48.1 
+=163,University of Pittsburgh, 48.1 
+165,RWTH Aachen University, 48 
+=166,Alma Mater Studiorum - University of Bologna, 47.7 
+=166,University of Bath, 47.7 
+=168,Texas A&M University, 47.6 
+=168,Universitat de Barcelona, 47.6 
+170,Western University, 47.5 
+171,Sapienza University of Rome, 47.2 
+172,Albert-Ludwigs-Universitaet Freiburg, 47 
+=173,University College Dublin, 46.9 
+=173,University of Florida, 46.9 
+175,Al-Farabi Kazakh National University, 46.8 
+176,University of Lausanne, 46.6 
+=177,Eberhard Karls Universität Tübingen, 46.4 
+=177,Indian Institute of Technology Bombay (IITB), 46.4 
+179,Erasmus University Rotterdam , 46.3 
+=180,National Tsing Hua University, 46.1 
+=180,Technische Universität Wien, 46.1 
+=180,University of Gothenburg, 46.1 
+=183,Khalifa University, 46 
+=183,Universidad de Chile, 46 
+185,Indian Institute of Technology Delhi (IITD), 45.9 
+=186,Indian Institute of Science, 45.7 
+=186,University of Minnesota Twin Cities, 45.7 
+188,Université catholique de Louvain (UCLouvain), 45.6 
+=189,University of Liverpool, 45.5 
+=189,University of Twente, 45.5 
+=191,Dartmouth College, 45.1 
+=191,Universiti Teknologi Malaysia , 45.1 
+193,University of Wollongong, 44.9 
+=194,Curtin University, 44.8 
+=194,Technische Universität Dresden, 44.8 
+=194,University of Otago, 44.8 
+197,"The University of Newcastle, Australia (UON)", 44.6 
+198,The Hebrew University of Jerusalem, 44.5 
+199,University of Bergen, 44.2 
+200,Macquarie University, 44.1 
+201,Keio University, 43.9Rank,University,Overall Score
+Rank,University,Overall Score
+1,Massachusetts Institute of Technology (MIT) , 100 
+2,University of Oxford, 99.5 
+=3,Stanford University, 98.7 
+=3,University of Cambridge, 98.7 
+5,Harvard University, 98 
+6,California Institute of Technology (Caltech), 97.4 
+7,Imperial College London, 97.3 
+=8,ETH Zurich - Swiss Federal Institute of Technology, 95.4 
+=8,UCL, 95.4 
+10,University of Chicago, 94.5 
+11,National University of Singapore (NUS), 93.9 
+12,"Nanyang Technological University, Singapore (NTU)", 90.8 
+13,University of Pennsylvania, 90.7 
+=14,EPFL, 90.2 
+=14,Yale University, 90.2 
+16,The University of Edinburgh, 89.9 
+17,Tsinghua University, 89 
+18,Peking University, 88.8 
+19,Columbia University, 88.7 
+20,Princeton University, 88.6 
+21,Cornell University, 88.3 
+22,The University of Hong Kong, 86.3 
+=23,The University of Tokyo, 86.2 
+=23,University of Michigan-Ann Arbor, 86.2 
+25,Johns Hopkins University, 85.9 
+26,University of Toronto, 85.3 
+=27,McGill University, 84 
+=27,The Australian National University, 84 
+=27,The University of Manchester, 84 
+30,Northwestern University, 82.8 
+31,Fudan University, 82.6 
+32,"University of California, Berkeley (UCB)", 82.5 
+33,Kyoto University, 82.3 
+34,The Hong Kong University of Science and Technology, 82.2 
+35,King's College London, 82 
+36,Seoul National University, 81.7 
+37,The University of Melbourne, 81.4 
+38,The University of Sydney, 80.4 
+39,The Chinese University of Hong Kong (CUHK), 80.3 
+40,"University of California, Los Angeles (UCLA)", 79.7 
+41,KAIST - Korea Advanced Institute of Science & Technology, 79.1 
+42,New York University (NYU), 78.9 
+43,The University of New South Wales (UNSW Sydney), 77.7 
+44,Université PSL, 77.6 
+45,Zhejiang University, 77.4 
+46,University of British Columbia, 77.1 
+47,The University of Queensland, 76.6 
+48,"University of California, San Diego (UCSD)", 76.1 
+=49,Institut Polytechnique de Paris, 75.9 
+49,The London School of Economics and Political Science (LSE), 75.8 
+=50,Shanghai Jiao Tong University, 75.6 
+=50,Technical University of Munich, 75.6 
+52,Duke University, 75.2 
+=53,Carnegie Mellon University, 74.6 
+=53,City University of Hong Kong, 74.6 
+55,University of Amsterdam, 73.8 
+56,Tokyo Institute of Technology (Tokyo Tech), 73.5 
+57,Delft University of Technology, 73.1 
+58,Monash University, 72.2 
+60,Brown University, 71.3 
+61,The University of Warwick, 71.2 
+62,University of Bristol, 71 
+63,Ruprecht-Karls-Universität Heidelberg, 70.8 
+64,Ludwig-Maximilians-Universität München, 70.1 
+65,Universiti Malaya (UM), 69.8 
+66,The Hong Kong Polytechnic University, 69.1 
+67,University of Texas at Austin, 68.4 
+68,National Taiwan University (NTU), 68.2 
+69,Universidad de Buenos Aires (UBA), 67.9 
+=70,KU Leuven, 67.2 
+=70,University of Zurich, 67.2 
+72,Sorbonne University, 67.1 
+73,University of Glasgow, 66.8 
+74,Korea University, 66.3 
+=75,Osaka University, 66.2 
+=75,University of Wisconsin-Madison, 66.2 
+77,University of Southampton, 65.7 
+78,Lomonosov Moscow State University, 65.6 
+=79,University of Copenhagen, 65.5 
+=79,Yonsei University, 65.5 
+81,Pohang University of Science And Technology (POSTECH), 65.4 
+=82,Durham University, 65.2 
+=82,Tohoku University, 65.2 
+=82,University of Illinois at Urbana-Champaign, 65.2 
+=85,The University of Auckland, 65 
+=85,University of Washington, 65 
+=86,Université Paris-Saclay, 64.9 
+87,Lund University, 63.8 
+88,Georgia Institute of Technology, 63.5 
+89,KTH Royal Institute of Technology , 63.2 
+90,University of Birmingham, 62.9 
+91,University of St Andrews, 62.8 
+92,University of Leeds, 62.6 
+93,The University of Western Australia, 62.5 
+94,Rice University, 62.3 
+95,The University of Sheffield, 61.6 
+96,Pennsylvania State University, 61.5 
+97,Sungkyunkwan University (SKKU), 60.5 
+98,University of Science and Technology of China, 60.1 
+99,Technical University of Denmark, 59.9 
+100,"University of North Carolina, Chapel Hill", 59.6 
+101,"Trinity College Dublin, The University of Dublin", 59.5 
+102,University of Oslo, 59 
+103,University of Nottingham, 58.9 
+104,University of Helsinki, 58.5 
+=105,Universidad Nacional Autónoma de México  (UNAM), 58.3 
+=105,University of Geneva, 58.3 
+107,Washington University in St. Louis, 58 
+108,The University of Adelaide, 57.9 
+=108,"University of California, Davis", 57.9 
+109,King Abdulaziz University (KAU), 57.7 
+110,Utrecht University, 57.5 
+111,Université de Montréal , 57.3 
+=112,Aalto University, 57 
+=112,Boston University, 57 
+=112,Leiden University, 57 
+=112,University of Southern California, 57 
+116,Purdue University, 56.9 
+117,Queen Mary University of London, 56.7 
+118,Nagoya University, 56.2 
+119,University of Bern, 56.1 
+120,The Ohio State University, 56 
+=121,Chalmers University of Technology, 55.9 
+=121,Universidade de São Paulo, 55.9 
+123,Wageningen University & Research, 55.8 
+124,Uppsala University, 55.4 
+125,Eindhoven University of Technology, 55.3 
+126,University of Alberta, 55.2 
+127,Freie Universitaet Berlin, 54.9 
+=128,Humboldt-Universität zu Berlin, 54.8 
+=128,University of Groningen, 54.8 
+130,École Normale Supérieure de Lyon, 54.6 
+131,Nanjing University, 54.2 
+132,Lancaster University, 54 
+133,University of Technology Sydney, 53.9 
+134,Newcastle University, 53.8 
+135,Pontificia Universidad Católica de Chile (UC), 53.6 
+136,"KIT, Karlsruhe Institute of Technology", 53.4 
+137,Kyushu University, 53.3 
+=138,University of Basel, 53 
+140,McMaster University, 52.7 
+141,Ghent University, 52.6 
+142,Politecnico di Milano, 52.5 
+143,Universiti Putra Malaysia (UPM), 52.2 
+144,Universiti Kebangsaan Malaysia (UKM), 52 
+145,Hokkaido University, 51.4 
+146,"University of California, Santa Barbara (UCSB)", 51.2 
+147,Universiti Sains Malaysia (USM), 51 
+148,Stockholm University, 50.6 
+=149,The University of Exeter, 50.5 
+=149,University of Waterloo, 50.5 
+=151,Cardiff University, 50.4 
+=151,University of Vienna, 50.4 
+=151,University of York, 50.4 
+154,University of Rochester, 50.3 
+155,Aarhus University, 50.2 
+156,Hanyang University, 49.8 
+157,Michigan State University, 49.7 
+158,"University of Maryland, College Park", 49.5 
+159,Technische Universität Berlin (TU Berlin), 49.3 
+160,Emory University, 48.6 
+=161,Case Western Reserve University, 48.2 
+=161,Tecnológico de Monterrey, 48.2 
+=163,King Fahd University of Petroleum & Minerals, 48.1 
+=163,University of Pittsburgh, 48.1 
+165,RWTH Aachen University, 48 
+=166,Alma Mater Studiorum - University of Bologna, 47.7 
+=166,University of Bath, 47.7 
+=168,Texas A&M University, 47.6 
+=168,Universitat de Barcelona, 47.6 
+170,Western University, 47.5 
+171,Sapienza University of Rome, 47.2 
+172,Albert-Ludwigs-Universitaet Freiburg, 47 
+=173,University College Dublin, 46.9 
+=173,University of Florida, 46.9 
+175,Al-Farabi Kazakh National University, 46.8 
+176,University of Lausanne, 46.6 
+=177,Eberhard Karls Universität Tübingen, 46.4 
+=177,Indian Institute of Technology Bombay (IITB), 46.4 
+179,Erasmus University Rotterdam , 46.3 
+=180,National Tsing Hua University, 46.1 
+=180,Technische Universität Wien, 46.1 
+=180,University of Gothenburg, 46.1 
+=183,Khalifa University, 46 
+=183,Universidad de Chile, 46 
+185,Indian Institute of Technology Delhi (IITD), 45.9 
+=186,Indian Institute of Science, 45.7 
+=186,University of Minnesota Twin Cities, 45.7 
+188,Université catholique de Louvain (UCLouvain), 45.6 
+=189,University of Liverpool, 45.5 
+=189,University of Twente, 45.5 
+=191,Dartmouth College, 45.1 
+=191,Universiti Teknologi Malaysia , 45.1 
+193,University of Wollongong, 44.9 
+=194,Curtin University, 44.8 
+=194,Technische Universität Dresden, 44.8 
+=194,University of Otago, 44.8 
+197,"The University of Newcastle, Australia (UON)", 44.6 
+198,The Hebrew University of Jerusalem, 44.5 
+199,University of Bergen, 44.2 
+Rank,University,Overall Score
