@@ -1,0 +1,1065 @@
+[
+  {
+    "list": {
+      "hotels": [],
+      "tcount": 0,
+      "fixTab": false,
+      "hotCondition": [],
+      "locationAreaFilter": [],
+      "comprehensiveFilter": [],
+      "cityName": "",
+      "isLoading": false,
+      "requestParam": {
+        "fromDate": "2022-03-21",
+        "toDate": "2022-03-22",
+        "q": "",
+        "cityUrl": "",
+        "cityName": "",
+        "start": 0,
+        "num": 20,
+        "level": "0",
+        "minPrice": 0,
+        "maxPrice": -1,
+        "locationAreaFilter": [],
+        "comprehensiveFilter": []
+      },
+      "seo": {
+        "footerShortCuts": [
+          {
+            "name": "厦门行政区酒店",
+            "type": "city",
+            "list": [
+              {
+                "id": "jimei",
+                "name": "集美区酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "siming",
+                "name": "思明区酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "huli",
+                "name": "湖里区酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "haicang",
+                "name": "海沧区酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "tongan",
+                "name": "同安区酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "xiangan",
+                "name": "翔安区酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "厦门车站机场附近酒店",
+            "type": "list",
+            "list": [
+              {
+                "id": "3204858",
+                "name": "高崎国际机场附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1165182",
+                "name": "厦门高崎站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2174323",
+                "name": "厦门北火车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "258751",
+                "name": "厦门火车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1293943",
+                "name": "高崎长途汽车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1364920",
+                "name": "厦门港和平码头客运站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1163643",
+                "name": "厦门鹭岛长途客运附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "256810",
+                "name": "枋湖客运中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1165181",
+                "name": "梧村长途汽车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1164284",
+                "name": "湖滨长途汽车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1741411",
+                "name": "集美长途汽车站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659624",
+                "name": "翁角路地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659620",
+                "name": "观音山地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659621",
+                "name": "育秀东路地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7538831",
+                "name": "岭兜地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645321",
+                "name": "乌石浦地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659619",
+                "name": "东宅地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645307",
+                "name": "集美大道地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7654543",
+                "name": "海沧湾公园地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1578932",
+                "name": "鹭江附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7539187",
+                "name": "蔡塘地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7657711",
+                "name": "湖滨中路地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7657429",
+                "name": "何厝地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645328",
+                "name": "将军祠地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645309",
+                "name": "诚毅广场地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645320",
+                "name": "塘边地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659622",
+                "name": "邮轮中心地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645306",
+                "name": "天水路地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645322",
+                "name": "吕厝地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7659623",
+                "name": "海沧商务中心地铁站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3645305",
+                "name": "厦门北站地铁站附近酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "厦门商圈景点附近酒店",
+            "type": "list",
+            "list": [
+              {
+                "id": "3723049",
+                "name": "金光湖-叠水奇观附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1286001",
+                "name": "刻章博物馆附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5006732",
+                "name": "叶氏家庙附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4784017",
+                "name": "厦门大学(思明校区)-颂恩楼附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4570150",
+                "name": "筼筜内湖附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3696704",
+                "name": "内湖景区附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4774757",
+                "name": "鑫龙谷休闲山庄附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2382092",
+                "name": "寨仔山附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6945797",
+                "name": "厦门园博园附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4623628",
+                "name": "梦想家附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3078943",
+                "name": "五一广场附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6306629",
+                "name": "杏林大桥附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3684316",
+                "name": "厦门各界抗敌后援会会址附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6680243",
+                "name": "南华路附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2124063",
+                "name": "东宅山附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3723099",
+                "name": "林湖堂附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3672488",
+                "name": "功德楼附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4719609",
+                "name": "酷奇堡乐园附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5495566",
+                "name": "厦门轮渡码头游客中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4532351",
+                "name": "One Moment游艇帆船定制附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5669241",
+                "name": "思明区妇幼保健院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4899251",
+                "name": "前埔医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1359251",
+                "name": "海沧医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5817155",
+                "name": "大同街道社区卫生服务中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1646964",
+                "name": "鹭海医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5103190",
+                "name": "厦门中医院南区附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3134581",
+                "name": "杏西医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6007516",
+                "name": "中华街道社区卫生中心升平路店附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5674863",
+                "name": "厦门市妇幼保健院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5629387",
+                "name": "厦门梧村中医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "4701840",
+                "name": "厦门华兴失眠抑郁医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5307826",
+                "name": "厦门市湖里区妇幼保健院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7414725",
+                "name": "厦门市翔安区疾病预防控制中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1627015",
+                "name": "厦门市中医院禾祥东门诊部附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2131517",
+                "name": "翔安后许卫生所附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5797155",
+                "name": "集美区杏林街道社区卫生服务中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5006904",
+                "name": "厦门大学附属第一医院鹭江分部附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1831296",
+                "name": "厦门仁安医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3134536",
+                "name": "西坂医院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5007369",
+                "name": "福建省新生儿救护厦门分中心附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6672042",
+                "name": "厦门大学附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7666583",
+                "name": "马克思主义学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2836224",
+                "name": "浙江工商大学附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1214956",
+                "name": "集美大学福东楼-二附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3643287",
+                "name": "厦门市广播电视大学思明工作站附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "2144549",
+                "name": "翔安区文教园附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "1418367",
+                "name": "集美大学财经学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6720072",
+                "name": "厦门理工学院-继续教育学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6441979",
+                "name": "邵阳职业技术学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "3097446",
+                "name": "厦门海洋职业技术学院思明校区附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "261335",
+                "name": "闽南佛学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6440336",
+                "name": "集美大学附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6684621",
+                "name": "集美大学诚毅学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6009381",
+                "name": "中共厦门市思明区委员会党校附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7512448",
+                "name": "机械与汽车工程学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5659898",
+                "name": "正新学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "258680",
+                "name": "厦门大学章州校区附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5159343",
+                "name": "厦门大学(思明校区)-庄汉水楼附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "5158011",
+                "name": "厦门大学(思明校区)-化学化工学院附近酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "6731029",
+                "name": "华侨大学(厦门校区)附近酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "厦门酒店类型",
+            "type": "list",
+            "list": [
+              {
+                "id": "fwss11",
+                "name": "免费宽带酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss12",
+                "name": "咖啡室酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss13",
+                "name": "残疾人设施酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss4",
+                "name": "健身房酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss10",
+                "name": "餐厅酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss14",
+                "name": "酒吧酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss15",
+                "name": "接待外宾酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss6",
+                "name": "接机服务酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss16",
+                "name": "按摩室酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss5",
+                "name": "早餐酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss8",
+                "name": "商务中心酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss2",
+                "name": "租车酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss17",
+                "name": "接站服务酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss18",
+                "name": "会议室酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss19",
+                "name": "无烟房酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss20",
+                "name": "可携带宠物酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss21",
+                "name": "吹风机酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss22",
+                "name": "叫车服务酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss23",
+                "name": "SPA酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss1",
+                "name": "温泉酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss24",
+                "name": "免费WIFI酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss25",
+                "name": "新开业\\u002F新装修酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss3",
+                "name": "游泳池酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss9",
+                "name": "空调酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fwss7",
+                "name": "停车场酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx11",
+                "name": "海滨风光酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx22",
+                "name": "招待所酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx12",
+                "name": "湖景风光酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx23",
+                "name": "家庭旅馆酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx13",
+                "name": "别墅酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx14",
+                "name": "酒店式公寓酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx17",
+                "name": "青年旅舍酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx18",
+                "name": "客栈酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx19",
+                "name": "民宿酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx1",
+                "name": "亲子家庭酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx2",
+                "name": "情侣约会酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx3",
+                "name": "团建轰趴酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx4",
+                "name": "商务出行酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx5",
+                "name": "主题特色酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx6",
+                "name": "休闲度假酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx7",
+                "name": "会展会务酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx9",
+                "name": "温泉酒店酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx20",
+                "name": "棋牌麻将酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx10",
+                "name": "宠物友好酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ztlx21",
+                "name": "农家院酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "厦门住客印象酒店",
+            "type": "list",
+            "list": [
+              {
+                "id": "zkyx12",
+                "name": "房间宽敞酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx13",
+                "name": "前台服务很赞酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx14",
+                "name": "环境安静酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx15",
+                "name": "床满意酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx16",
+                "name": "环境干净酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx17",
+                "name": "有停车场酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx18",
+                "name": "免费班车酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx19",
+                "name": "卫生间干净酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx1",
+                "name": "服务很赞酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx2",
+                "name": "交通方便酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx3",
+                "name": "环境不错酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx4",
+                "name": "性价比高酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx5",
+                "name": "房间干净酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx7",
+                "name": "房间舒适酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx8",
+                "name": "老板很赞酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx9",
+                "name": "早餐很棒酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zkyx20",
+                "name": "位置方便酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "城市品牌",
+            "type": "brand",
+            "list": [
+              {
+                "id": "qianxi",
+                "name": "千禧",
+                "city": "xiamen"
+              },
+              {
+                "id": "xierdunyilin",
+                "name": "希尔顿逸林",
+                "city": "xiamen"
+              },
+              {
+                "id": "kanglaide",
+                "name": "康莱德",
+                "city": "xiamen"
+              },
+              {
+                "id": "puyin",
+                "name": "璞隐酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "7tianyoupin",
+                "name": "7天优品酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "juzi",
+                "name": "桔子酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "xierdunhuanpeng",
+                "name": "希尔顿欢朋",
+                "city": "xiamen"
+              },
+              {
+                "id": "baixiang",
+                "name": "佰翔",
+                "city": "xiamen"
+              },
+              {
+                "id": "lichengjiudian",
+                "name": "丽呈酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "qitian",
+                "name": "7天酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "langting",
+                "name": "朗廷",
+                "city": "xiamen"
+              },
+              {
+                "id": "huazhu",
+                "name": "花筑",
+                "city": "xiamen"
+              },
+              {
+                "id": "xierdun",
+                "name": "希尔顿",
+                "city": "xiamen"
+              },
+              {
+                "id": "hanting",
+                "name": "汉庭酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "zhizunhaoting",
+                "name": "温德姆至尊豪廷",
+                "city": "xiamen"
+              },
+              {
+                "id": "heyi",
+                "name": "和颐酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "yaduo",
+                "name": "亚朵酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "quanji",
+                "name": "全季酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "kaibinsiji",
+                "name": "凯宾斯基",
+                "city": "xiamen"
+              },
+              {
+                "id": "rujia",
+                "name": "如家快捷酒店",
+                "city": "xiamen"
+              }
+            ]
+          },
+          {
+            "name": "周边城市",
+            "type": "city",
+            "list": [
+              {
+                "id": "zhangzhou",
+                "name": "漳州酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "quanzhou",
+                "name": "泉州酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "putian",
+                "name": "莆田酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "sanming",
+                "name": "三明酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "chaozhou",
+                "name": "潮州酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "shantou",
+                "name": "汕头酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "jieyang",
+                "name": "揭阳酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "fuzhou_fujian",
+                "name": "福州酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "longyan",
+                "name": "龙岩酒店",
+                "city": "xiamen"
+              },
+              {
+                "id": "ningde",
+                "name": "宁德酒店",
+                "city": "xiamen"
+              }
+            ]
+          }
+        ],
+        "tdkType": "city",
+        "seoNavId": "key55378843"
+      },
+      "favorites": [],
+      "favoritesExpand": false,
+      "showRecommend": true,
+      "pageMessage": "非常抱歉，暂时无法找到符合您要求的酒店，请扩大筛选范围，再试试～",
+      "recommendParas": {
+        "b": {
+          "locationAreaFilter": [],
+          "comprehensiveFilter": [],
+          "minPrice": 0,
+          "maxPrice": -1,
+          "level": "0",
+          "bizVersion": "17",
+          "cityType": 1,
+          "sort": 0,
+          "num": 20,
+          "start": 0,
+          "userName": undefined,
+          "fromDate": undefined,
+          "toDate": undefined,
+          "cityUrl": undefined,
+          "hourlyRoom": false,
+          "vtoken": "pclist-v2-990029ee9222f65a9e3ea02e4ce4a9ae",
+          "channelId": 1
+        }
+      },
+      "distanceSelected": "",
+      "locationCloseIndex": -1,
+      "composeCloseIndex": -1,
+      "pathName": "\\u002Fcn\\u002Fxiamen\\u002Fs00key55378843\\u002F",
+      "isHourRoomChanel": false,
+      "ads": [
+        {
+          "title": "热销酒店",
+          "url": "https:\\u002F\\u002Fm.flight.qunar.com\\u002Fshark\\u002Factive?cid=3615&_pc=yes&bd_source=hotel_pclist_banner",
+          "pic": "https:\\u002F\\u002Fimg1.qunarzz.com\\u002Fm_appPromotion\\u002Fwap\\u002F2002\\u002Faa\\u002F62bfa81b3e017302.jpg"
+        }
+      ],
+      "reHourlyRoom": false,
+      "filterItems": []
+    },
+    "nShirley": "var a_b_c_d_f = \\"
+    b025be83740c47cd9f3885cf5efc80a3
+    \
+    \
+    "; (function(a_b_c_d_f){ window.shirley = a_b_c_d_f })(a_b_c_d_f)"
+  }
+  ']
