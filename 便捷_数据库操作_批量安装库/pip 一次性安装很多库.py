@@ -74,7 +74,49 @@ pymongo
 import os
 
 
-def auto_install():
+def auto_install_idle():
+    '''
+    print()输出内容   为默认颜色
+    :return:
+    '''
+    libs = ['requests', 'asyncio', 'bs4', 'beautifulsoup4', 'docopt', 'docx', 'django', 'flask', 'werobot', 'wheel',
+            'lxml', 'xlwt',
+            'numpy', 'networkx', 'sklearn', 'Scikit-Learn', 'Keras', 'Scapy', 'scrapy', 'SciPy',
+            'selenium', 'sympy', 'matplotlib', 'multiprocessing', 'threading', 'jieba', 'jsonpath', 'pandas', 'Pillow',
+            'playwright', 'pdfplumber',
+            'pypdf2', 'pyautogui', 'pyperclip', 'Pyglet', 'pymysql', 'pyqt5', 'pywifi', 'pyopengl', 'pygame',
+            'pyinstaller', 'pymongo', 'uvloop', 'aioredis', 'aiomysql', 'aiohttp', 'TensorFlow']
+    # 计数器
+    num = 0
+    # 需要安装的库的数量
+    a = len(libs)
+    # 统计出错次数
+    c = 0
+    for lib in libs:
+        # 已执行数量
+        num += 1
+        # 剩余未执行数量
+        b = a - num
+
+        try:
+            print('当前安装第 ', num, ' 个库，剩余：', b, ' 个库正在等待安装....' )
+            print('开始安装： ', lib )
+            print("执行命令：  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple " + lib )
+            os.system('pip install -i https://pypi.tuna.tsinghua.edu.cn/simple ')
+            print(lib + '：' + '  installed successful 已安装成功！')
+        except:
+            # 出错次数累计
+            c += 1
+            print(lib + '  installed failed      安装失败！')
+
+    print(libs, '\n', "已成功安装", num, "个库！", c, "个异常！   \n程序退出！")
+
+
+def auto_install_pycharm():
+    '''
+    改变 print() 输出内容的颜色
+    :return:
+    '''
     # print 字体紫色
     color_a = "\033[1;35m"
     color_b = '\033[0m'
@@ -83,11 +125,11 @@ def auto_install():
 
     libs = ['requests', 'asyncio', 'bs4', 'beautifulsoup4', 'docopt', 'docx', 'django', 'flask', 'werobot', 'wheel',
             'lxml', 'xlwt',
-            'numpy', 'networkx', 'sklearn', 'Scikit-Learn', 'TensorFlow', 'Keras', 'Scapy', 'scrapy', 'SciPy',
+            'numpy', 'networkx', 'sklearn', 'Scikit-Learn', 'Keras', 'Scapy', 'scrapy', 'SciPy',
             'selenium', 'sympy', 'matplotlib', 'multiprocessing', 'threading', 'jieba', 'jsonpath', 'pandas', 'Pillow',
             'playwright', 'pdfplumber',
             'pypdf2', 'pyautogui', 'pyperclip', 'Pyglet', 'pymysql', 'pyqt5', 'pywifi', 'pyopengl', 'pygame',
-            'pyinstaller', 'pymongo']
+            'pyinstaller', 'pymongo', 'uvloop', 'aioredis', 'aiomysql', 'aiohttp', 'TensorFlow']
     # 计数器
     num = 0
     # 需要安装的库的数量
@@ -115,4 +157,4 @@ def auto_install():
 
 
 if __name__ == '__main__':
-    auto_install()
+    auto_install_pycharm()
