@@ -8,22 +8,11 @@
 # @homepage  :www.demo520.com
 
 
-# -*- coding: utf-8 -*-
-# @Time    : 2019-08-02 16:41
-# @Author  : ShaHeTop-Almighty-ares
-# @Email   : yang6333yyx@126.com
-# @File    : AioBaiduSpider.py
-# @Software: PyCharm
-
-
 import asyncio
 import aiohttp
 from lxml import html
 import datetime
 import requests
-import re
-import threading
-
 
 async def get_url(url, header=None):
     """请求url"""
