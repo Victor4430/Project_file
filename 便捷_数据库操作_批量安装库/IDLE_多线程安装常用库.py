@@ -82,15 +82,20 @@ def thread_pip(pip_name):
 
 
 if __name__ == '__main__':
-    libs = ['pyquery', 'asyncio', 'python-utils', 'aiohttp', 'aiofiles', 'aiomysql', 'aioredis', 'requests', 'bs4',
-            'beautifulsoup4', 'docopt',
-            'docx', 'django', 'flask', 'werobot', 'wheel',
-            'lxml', 'xlwt',
-            'numpy', 'networkx', 'sklearn', 'Scikit-Learn', 'Keras', 'Scapy', 'scrapy', 'SciPy',
-            'selenium', 'sympy', 'matplotlib', 'multiprocessing', 'threading', 'jieba', 'jsonpath', 'pandas', 'Pillow',
-            'playwright', 'pdfplumber',
-            'pypdf2', 'pyautogui', 'pyperclip', 'Pyglet', 'pymysql', 'pyqt5', 'pywifi', 'pyopengl', 'pygame',
-            'pyinstaller', 'pymongo', 'uvloop', 'TensorFlow']
+    libs = [
+        'pyquery', 'asyncio', 'python-utils', 'aiohttp', 'aiofiles',
+        'aiomysql', 'aioredis', 'requests', 'bs4',
+        'beautifulsoup4', 'docopt',
+        'docx', 'django', 'flask', 'werobot', 'wheel',
+        'lxml', 'xlwt',
+        'numpy', 'networkx', 'sklearn', 'Scikit-Learn', 'Keras', 'Scapy', 'scrapy', 'SciPy',
+        'selenium', 'sympy', 'matplotlib', 'multiprocessing', 'threading', 'jieba',
+        'jsonpath', 'pandas', 'Pillow',
+        'playwright', 'pdfplumber',
+        'pypdf2', 'pyautogui', 'pyperclip', 'Pyglet', 'pymysql', 'pyqt5',
+        'pywifi', 'pyopengl', 'pygame',
+        'pyinstaller', 'pymongo', 'uvloop', 'TensorFlow'
+    ]
 
     threads = []
     for i in libs:  # 循环创建多个个线程
