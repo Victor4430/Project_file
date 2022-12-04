@@ -1,20 +1,34 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @FileName  :py_venv -> python_script_模板.py
-# @IDE       :PyCharm
-# @Time      :2022/4/8 21:40
-# @Author    :杨晓东
+# @FileName  :${PROJECT_NAME} -> ${NAME}.py
+# @IDE       :${PRODUCT_NAME}
+# @Time      :${DATE} ${TIME}
+# @Author    :Victor
 # @Email     :lzj155@foxmail.com
-# @homepage  :www.demo520.com
-
+# @homepage  :www.demo443.com
+ 
 import csv
+import time
 import requests
 from lxml import etree
 
-
-def run():
+# 装饰器 计时器
+def time_out(a_func):
+    def clocked(*args, **kwargs):
+        start = time.time()
+        result = a_func(*args, **kwargs)
+        end = time.time()
+        print("程序：" + a_func.__name__,"    运行时间：" + str(end - start))
+        return result
+    return clocked
+@time_out
+def run(): 
+    # start
+    #[[$END$]]#
     # 设置开始网址
     url = "https://www.baidu.com"
+    # 设置会话
+    session = requests.session()
     # 设置代理端口
     proxy = '127.0.0.1:4780'
     proxies = {"http": "http://" + proxy, "https": "http://" + proxy}
@@ -22,7 +36,7 @@ def run():
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"}
     # 开始请求网页
-    req = requests.get(url, headers=headers, proxies=proxies)
+    req = session.get(url, headers=headers, proxies=proxies)
     req.encoding = 'utf-8'
     print(req.text)
 
@@ -33,8 +47,9 @@ def run():
 
     # ip测试_显示当前ip地址
     ip_url = 'http://icanhazip.com'
-    ip_req = requests.get(ip_url, headers=headers, proxies=proxies)
+    ip_req = session.get(ip_url, headers=headers, proxies=proxies)
     print('当前ip：', ip_req.text)
+
 
 
 # csv 保存_使用数组方法
@@ -102,3 +117,6 @@ def csv_data_read():
 
 if __name__ == "__main__":
     run()
+
+
+
