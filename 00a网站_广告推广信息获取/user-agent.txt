@@ -1,0 +1,19 @@
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9,en;q=0.8
+cache-control: no-cache
+content-length: 14
+content-type: application/json;charset=UTF-8
+cookie: _nano_fp=XpE8Xp9jnqPan0TjXo_ZYJDq4fyb848dvRqlISuX; _bee=FozzqR9ZIU8nLgl6cVEvlA69lmUYWEeL; rckk=FozzqR9ZIU8nLgl6cVEvlA69lmUYWEeL; _f77=a1fa4364-ab5c-4d81-8e1e-fdd94be8fe17; _a42=1733d69e-0de1-48b7-a39e-470541089698; ru1k=a1fa4364-ab5c-4d81-8e1e-fdd94be8fe17; ru2k=1733d69e-0de1-48b7-a39e-470541089698; DDJB_PASS_ID=166474da064ba4e043fb304ea8873a7a; DDJB_LOGIN_SCENE=0; api_uid=rBUUjWOadn2XORxG96SEAg==
+dnt: 1
+origin: https://jinbao.pinduoduo.com
+pragma: no-cache
+referer: https://jinbao.pinduoduo.com/promotion/hot-promotion
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+verifyauthtoken: 3aCKe9RdbFdaMaBwrhr4zQa8e653b57feca9398
